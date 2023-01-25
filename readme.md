@@ -2,7 +2,7 @@
 
 This webpage will be written to keep track of notes for my classes in **Code 301**
 and **401** and practice writing `markdown`
-The website will be hosted at [Reading Notes](https://github.com/ShadowDraco/reading-notes).
+The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/reading-notes).
 
 - Here's a project I'm going to work on to practice _vanilla javascript_
 
