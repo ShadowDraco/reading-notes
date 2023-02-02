@@ -27,7 +27,7 @@ _ReactDOM - react360_ - etc that will help render
             Info flows ***Down***  *to* these components in the tree
 ```
 
-to update data for the bottom `<MainNav />` you can update data in `<Header />` and send it back down to `<MainNav />`
+- to update data for the bottom `<MainNav />` you can update data in `<Header />` and send it back down to `<MainNav />`
 
 3. Review
 
