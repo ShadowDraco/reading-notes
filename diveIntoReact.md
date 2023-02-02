@@ -2,14 +2,15 @@
 
 meaning it doesn't care where the information comes from, it just creates a DOM and renders it
 The react library **doesn't care** if you're using it in a browser or anywhere else, it only needs to have a second library like:
-ReactDOM - react360 - etc that will help render
+_ReactDOM - react360_ - etc that will help render
 
--- a react element is NOT a DOM element
+-- a react element is **_NOT a DOM element_**
 React does not become DOM until it is passed through ReactDOM [which converts it]
 
 - React is used to create interfaces - graphs, bars, entire websites, applications, widget etc - it can use for all of these things
 
-- React is a library
+_React is a library_
+
 - Frameworks come with functions and useful tools etc
 - but it is a library which is pretty lightweight and has functions for creating user interface
 
