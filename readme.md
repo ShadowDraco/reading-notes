@@ -9,6 +9,11 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
   - [Back to Basics](https://github.com/ShadowDraco/back-to-basics)
     > This project will be made with more browser api's and other non-node things because my instructor wanted to see that
 
+- 301 Prework
+  - [Dive into React](./diveIntoReact.md)
+  - [ES6 classes](https://replit.com/@shadowdraco/ES6-Classes#vehicles-with-classes.js)
+  - [Introduction to react and components](./introductionToReactAndCompents.md)
+
 ## Code 301 - Intermediate Software Development
 
 - Also not there yet but about to be!
