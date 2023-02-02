@@ -4,20 +4,20 @@ meaning it doesn't care where the information comes from, it just creates a DOM 
 The react library **doesn't care** if you're using it in a browser or anywhere else, it only needs to have a second library like:
 _ReactDOM - react360_ - etc that will help render
 
--- a react element is **_NOT a DOM element_**
-React does not become DOM until it is passed through ReactDOM [which converts it]
+1. a react element is **_NOT a DOM element_**
+   React does not become DOM until it is passed through ReactDOM [which converts it]
 
-- React is used to create **interfaces** - _graphs, bars, entire websites, applications, widgets_ etc - it can use for all of these things
+   - React is used to create **interfaces** - _graphs, bars, entire websites, applications, widgets_ etc - it can use for all of these things
 
-- React is a library
+   - React is a library
 
-- Frameworks come with functions and useful tools etc
-- but it is a library which is pretty lightweight and has functions for creating user interface
+   - Frameworks come with functions and useful tools etc
+   - but it is a library which is pretty lightweight and has functions for creating user interface
 
-- React components are modular and reusable
-- components can import other components to utilize them in a component tree
+   - React components are modular and reusable
+   - components can import other components to utilize them in a component tree
 
--- In component trees data flows down ONE WAY and this is important in the architecture of react
+2. In component trees data flows down ONE WAY and this is important in the architecture of react
 
 ```------------------------ APP ------------------------
              Header                   content                footer
@@ -29,9 +29,10 @@ React does not become DOM until it is passed through ReactDOM [which converts it
 
 to update data for the bottom `<MainNav />` you can update data in `<Header />` and send it back down to `<MainNav />`
 
-- Review
+3. Review
 
-React is a user interface library UILib
-Has Component Architecture
-Has data flow in one direction
-has "state" for its components
+   - **_React is a user interface library (UILib)_**
+
+   1. Has Component Architecture
+   2. Has data flow in one direction
+   3. has "state" for its components
