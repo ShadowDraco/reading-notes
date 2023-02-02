@@ -25,12 +25,12 @@
 
    1. What is 'props' short for
 
-      -
+      - "Props" is a special react keyword short for **_Properties_**
 
    2. How are props used in react?
 
-      -
+      - Props are used as a uni-directional, read only way of passing data to child components. They are used for rendering data, but not for updating. This is called _Read only_
 
    3. What is the flow of props?
 
-      -
+      - _uni-directional_ means the flow of data is **only** child to parent
