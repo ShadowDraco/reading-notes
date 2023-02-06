@@ -13,6 +13,7 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
   - [Dive into React](./diveIntoReact.md)
   - [ES6 classes](https://replit.com/@shadowdraco/ES6-Classes#vehicles-with-classes.js)
   - [Introduction to react and components](./introductionToReactAndCompents.md)
+  - [Git branching](./LearnGitBranching)
 
 ## Code 301 - Intermediate Software Development
 
