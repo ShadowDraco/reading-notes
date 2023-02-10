@@ -36,3 +36,5 @@ _ReactDOM - react360_ - etc that will help render
    1. Has Component Architecture
    2. Has data flow in one direction
    3. has "state" for its components
+
+**_Every component manages its own State_**.
