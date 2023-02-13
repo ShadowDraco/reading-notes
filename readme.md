@@ -17,7 +17,7 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
 
 ## Code 301 - Intermediate Software Development
 
-- Also not there yet but about to be!
+- [Class 01 Reading]()
 
 ## Code 401 - Advanced Software Development
 
