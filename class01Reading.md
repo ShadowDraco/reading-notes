@@ -41,7 +41,6 @@
 
 - How does JSX prevent injection attacks and keep things safe really? I still have to take precautions for getting user data and saving it and letting users run functions in the backend. But not to take it and display it on the front end because JSX escapes it?
 
-
 - callback functions are a "function that you don't call" it is used by the function you provide it to like forEach((item, index) => {
-   callBack()
-})
+  callBack()
+  })
