@@ -1,5 +1,9 @@
 # React Forms and controlled components
 
+## Why this is important
+
+> Knowning how to use controlled components is very valuable in react because simple html elements can handle their own little 'state' in an input field, but with react you need actual **state** to manage this data because it is supposed to remain persistent, while having the ability to update and rerender.
+
 ## Reading
 
 ### [React Docs - Forms](https://reactjs.org/docs/forms.html)
@@ -40,3 +44,8 @@ console.log(false);
 ----> x===y? console.log(true) : console.log(false)
 
 ```
+
+## Things I want to know more about
+
+> I want to know more about how to run complex logic with nested ternary operators, and how the `something? & something` works. I believe there is also the or operation like `something || somethingElse` which can display things in components or be used in vanilla javascript.
+> Specifically are ternary operators truly limited to single condition to single return statements? or are they more powerful than that. Because I don't believe that if and else statements are useless. As well as the use cases for & and |.
