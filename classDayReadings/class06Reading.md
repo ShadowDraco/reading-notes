@@ -40,7 +40,7 @@
 
 1. What are the 6 reasons for pair programming?
 
-    -
+    - Greater Efficiency, Engaged collaboration, Learning from fellow students, social skill, job interview readiness, work environment readiness.
 
 2. In your experience, which of these reasons have you found most beneficial?
 
@@ -48,7 +48,7 @@
 
 3. How does pair programming work?
 
-    - 
+    - Pair programming sets seperates code and planing between two programmers. One writes code, refactors and pushes. Another keeps their hand off the IDE and talks out loud to help their partner write the code
 
 ### Things I want to know more about
 
