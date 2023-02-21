@@ -14,11 +14,11 @@
 
 **What is the HTTP protocol that Fielding and his friends created?**
 
-- The http protocol is capable of descriing the location of something (or information) from around the world (to anywhere in the world)
+- The http protocol is capable of describing the location of something (or information) from around the world (to anywhere in the world)
 
 **What does a GET do?**
 
-- get Fetches a resouce
+- get Fetches a resource
 
 **What does a POST do?**
 
