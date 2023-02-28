@@ -28,6 +28,8 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
 - [Class 09 Reading](./classDayReadings/class09Reading.md)
 - [Class 10 Reading](./classDayReadings/class10Reading.md)
 - [Class 11 Reading](./classDayReadings/class11Reading.md)
+- [Class 12 Reading](./classDayReadings/class12Reading.md)
+- [Class 13 Reading](./classDayReadings/class13Reading.md)
 
 ## Code 401 - Advanced Software Development
 
