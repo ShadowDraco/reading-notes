@@ -9,3 +9,5 @@ https://www.arm.com/resources/developer-program?utm_source=google&utm_medium=cpc
 
 Meet with people and write some front end code? wilddd
 https://www.meetup.com/independent-application-developers-network/events/291088050
+
+https://code.visualstudio.com/blogs/2023/04/13/vscode-day
