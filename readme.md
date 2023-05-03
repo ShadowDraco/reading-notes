@@ -36,5 +36,10 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
 
 - 401 Pre-work
   - [Bash Practice](./401-prework/BashPractice.md)
+  - [Bias Self Assessment](./401-prework/Bias-Self-Assessment.md)
+  - [Callbacks](./401-prework/Callbacks.md)
+  - [Emotional Intelligence](./401-prework/EmotionalIntelligence.md)
+  - [Growth mindset](./401-prework/GrowthMindset.md)
+  - [About SQL](./401-prework/AboutSQL.md)
 
 ## Code 401 - Advanced Software Development (Javascript)
