@@ -1,6 +1,4 @@
-# Do this when you're done please
-
-## Callbacks
+# Callbacks
 
 ```Javascript
 
