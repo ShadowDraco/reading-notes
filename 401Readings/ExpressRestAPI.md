@@ -30,16 +30,20 @@
 
 - What is an Express Router?
 
-  - 
+  - An express router is a lightweight extension to the express server that can help modularize express servers by dividing the route handlers into their own files and locations.
 
-By what mean do we initialize express.Router() in an express server?
+- By what mean do we initialize express.Router() in an express server?
 
--
+  - simply create an instance of express.Router() ahd attach its route to the main server
 
-What do we use route middleware for?
+- What do we use route middleware for?
 
--
+  - Route middleware helps do functions before a request is processed in a clean way. Checking authentication or validating data is clearly and cleanly done in the middleware!
 
 ## Things I want to know more about
 
+- what does an implementation of a rest api with tests and good in depth file structure look like?
+
 ### Reflection
+
+- i am very excited to begin learning SQL databases! lets gooooooo!
