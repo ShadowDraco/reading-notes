@@ -41,4 +41,8 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
   - [Growth mindset](./401-prework/GrowthMindset.md)
   - [About SQL](./401-prework/AboutSQL.md)
 
-## Code 401 - Advanced Software Development (Javascript)
+## Code 401 - Advanced Software Development
+
+- [Express CI/CD](./401Readings/ExpressCICD.md)
+- [NodeEcosystem](./401Readings/NodeEcosystem.md)
+- [Data Modeling](./401readings/DataModeling.md)
