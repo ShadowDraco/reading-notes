@@ -46,3 +46,4 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
 - [Express CI/CD](./401Readings/ExpressCICD.md)
 - [NodeEcosystem](./401Readings/NodeEcosystem.md)
 - [Data Modeling](./401readings/DataModeling.md)
+- [Workshop #1](./401Readings/RobinWorkshop.md)
