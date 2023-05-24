@@ -44,6 +44,11 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
 ## Code 401 - Advanced Software Development
 
 - [Express CI/CD](./401Readings/ExpressCICD.md)
-- [NodeEcosystem](./401Readings/NodeEcosystem.md)
+- [Node Ecosystem](./401Readings/NodeEcosystem.md)
 - [Data Modeling](./401readings/DataModeling.md)
+- [Express REST](./401Readings/ExpressRestAPI.md)
 - [Workshop #1](./401Readings/RobinWorkshop.md)
+- [Authentication](./401Readings/Authentication.md)
+- [Bearer Auth](./401Readings/BearerAuth.md)
+- [Access Control](./401Readings/AccessControl.md)
+- [Workshop #2](./401Readings/PrepYourWhy.md)
