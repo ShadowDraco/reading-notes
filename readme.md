@@ -52,3 +52,4 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
 - [Bearer Auth](./401Readings/BearerAuth.md)
 - [Access Control](./401Readings/AccessControl.md)
 - [Workshop #2](./401Readings/PrepYourWhy.md)
+- [Authorization/Authentication](./401Readings/AuthorizationAuthentication.md)
