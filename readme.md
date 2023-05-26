@@ -54,3 +54,4 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
 - [Workshop #2](./401Readings/PrepYourWhy.md)
 - [Authorization/Authentication](./401Readings/AuthorizationAuthentication.md)
 - [Stacks and Queues](./401Readings/StacksAndQueues.md)
+- [Career Coaching](./401Readings/CareerCoaching.md)
