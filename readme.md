@@ -56,3 +56,8 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
 - [Stacks and Queues](./401Readings/StacksAndQueues.md)
 - [Career Coaching](./401Readings/CareerCoaching.md)
 - [Event Programming](./401Readings/EventDrivenProgramming.md)
+- [Stacks and Queues](./401Readings/StacksAndQueues.md)
+- [Socket.io](./401Readings/socket.io.md)
+- [Podcasts](./401Readings/Podcasts.md)
+- [MessageQueues](./401Readings/MessageQueues.md)
+- [Event Driven Architecture](./401Readings/EventDrivenArchitecture.md)
