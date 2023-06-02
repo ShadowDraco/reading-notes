@@ -1,0 +1,3 @@
+# Trees
+
+Trees are a highly organized data structure composed of many parts. Trees have many nodes that create branches which stem from a root. Each branch has a node with k amount of nodes connected to it with their own nodes. The nodes are separated into right and left which allows you to traverse the 'edges' of the trees until you find the bottom 'leaf' which is a node that has no children. Probably the bottom of the branch, or at least that edge. Following the edges of the tree all the way down and counting the amount of nodes gives the height. A Tree keeps track of a lot of values and provides two main forms of locating values in it. Breadth and Depth searches. They are very useful for storing data that is efficient and effectively stored
