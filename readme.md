@@ -64,3 +64,5 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
 - [Trees](./401Readings/Trees.md)
 - [Job Searching](./401Readings/JobSearches.md)
 - [AWS Cloud Servers](./401Readings/AWSCloudServers.md)
+- [AWS S3 and Lambda](./401Readings/AWSS3Lambda.md)
+- [AWS Dynamo and Lambda](./401Readings/AWSAPIDynamoLambda)
