@@ -67,4 +67,6 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
 - [AWS S3 and Lambda](./401Readings/AWSS3Lambda.md)
 - [AWS Dynamo and Lambda](./401Readings/AWSAPIDynamoLambda)
 - [AWS SNS and SQS](./401Readings/AWSSNSSQS.md)
-- [Winning the Interview](./401)
+- [Winning the Interview](./401Readings/WorkShopWinningTheInterview.md)
+- [Use State Hook](./401Readings/useState.md)
+- [Use Effect Hook](./401Readings/useEffect.md)
