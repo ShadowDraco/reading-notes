@@ -73,3 +73,5 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
 - [Use Effect Hook](./401Readings/useEffect.md)
 - [Advanced State](./401Readings/advancedStateUseReducer.md)
 - [Context API](./401Readings/contextAPI.md)
+- [Api Integration](./401Readings/ApiIntegration)
+- [Graph](./401Readings/Graphs.md)
