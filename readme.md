@@ -77,3 +77,5 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
 - [Graph](./401Readings/Graphs.md)
 - [Redux Async](./401Readings/ReduxAsync)
 - [Redux Toolkit](./401Readings/ReduxToolkit.md)
+- [CodeEthics](./401Readings/CodeEthics.md)
+- [Open Source Software](./401Readings/OpenSourceSoftware.md)
