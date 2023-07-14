@@ -80,3 +80,4 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
 - [CodeEthics](./401Readings/CodeEthics.md)
 - [Open Source Software](./401Readings/OpenSourceSoftware.md)
 - [Frameworks](./401Readings/Frameworks.md)
+- [Breaking Down the Tech Interview](./401Readings/BreakingDownTheTechInterview.md)
