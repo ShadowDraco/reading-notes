@@ -81,3 +81,5 @@ The website will be hosted at [Reading Notes](https://ShadowDraco.github.io/read
 - [Open Source Software](./401Readings/OpenSourceSoftware.md)
 - [Frameworks](./401Readings/Frameworks.md)
 - [Breaking Down the Tech Interview](./401Readings/BreakingDownTheTechInterview.md)
+- [Deep Dive: Dev Tools](./401Readings/DeepDiveDevTools.md)
+- [React Native](./401Readings/ReactNative)
